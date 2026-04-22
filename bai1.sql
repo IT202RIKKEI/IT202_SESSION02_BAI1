@@ -1,3 +1,7 @@
+
+CREATE DATABASE session02;
+USE session02;
+
 CREATE TABLE PRODUCT (
 	ID INT PRIMARY KEY auto_increment,
     ProductName varchar(100) not null,
